@@ -1,0 +1,300 @@
+.icon,
+.researchReport {
+  position: absolute;
+  left: 0;
+}
+.icon {
+  top: 0.3px;
+  width: 365px;
+  height: 584px;
+  object-fit: cover;
+}
+.researchReport {
+  top: 0;
+  font-weight: 600;
+}
+.accentureLifeTrends {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 153.5px);
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.researchReportParent {
+  position: absolute;
+  top: 34.3px;
+  left: 29px;
+  width: 307px;
+  height: 66px;
+}
+.divelementorElement2 {
+  position: relative;
+  background-color: var(--upright-kitten-10web-site-1349x609-default-black);
+  width: 364.8px;
+  height: 594px;
+  min-height: 594px;
+}
+.resiliencyInThe {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 136.5px);
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.researchReportGroup {
+  position: absolute;
+  top: 34.3px;
+  left: 38.7px;
+  width: 273px;
+  height: 66px;
+}
+.divelementorElement3 {
+  position: relative;
+  width: 426.2px;
+  height: 594px;
+  background-image: url(/divelementorelement@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 594px;
+}
+.cop28 {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 62.5px);
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.annoncementParent {
+  position: absolute;
+  top: 33.3px;
+  left: 37px;
+  width: 125px;
+  height: 66px;
+}
+.divelementorElement4 {
+  position: relative;
+  background-color: var(
+    --upright-kitten-10web-site-1349x609-default-pigment-indigo
+  );
+  width: 426.2px;
+  height: 594px;
+  min-height: 594px;
+}
+.enablingWomenOn {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 162px);
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 324px;
+}
+.researchReportContainer {
+  position: absolute;
+  top: 34.3px;
+  left: 38.2px;
+  width: 324px;
+  height: 126px;
+}
+.divelementorElement5 {
+  position: relative;
+  width: 380.2px;
+  height: 594px;
+  background-image: url(/divelementorelement1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 594px;
+}
+.divelementorElement1 {
+  width: 100%;
+  height: 594px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-0) 0.029937744140625px 80.625px var(--padding-0);
+  box-sizing: border-box;
+  max-width: 1920px;
+  z-index: 0;
+}
+.frameDiv {
+  position: relative;
+  width: 324px;
+  height: 126px;
+}
+.divelementorElement7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-32xl) var(--padding-15xl);
+  box-sizing: border-box;
+  background-image: url(/divelementorelement2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 594px;
+}
+.productivityTheNext {
+  position: absolute;
+  top: 51px;
+  left: calc(50% - 162px);
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 324px;
+}
+.researchReportParent1 {
+  position: relative;
+  width: 324px;
+  height: 111px;
+}
+.divelementorElement8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-35xl) var(--padding-32xl);
+  box-sizing: border-box;
+  background-image: url(/divelementorelement3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 594px;
+}
+.theCyberResilientCeo {
+  position: absolute;
+  top: 47px;
+  left: calc(50% - 162px);
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 324px;
+}
+.researchReportParent2 {
+  position: relative;
+  width: 324px;
+  height: 77px;
+}
+.divelementorElement9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-27xl) var(--padding-32xl);
+  box-sizing: border-box;
+  background-image: url(/divelementorelement4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 594px;
+}
+.beOurGuest,
+.caseStudy {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 160px;
+}
+.beOurGuest {
+  top: 47px;
+  font-size: var(--font-size-5xl);
+  width: 249px;
+}
+.caseStudyParent {
+  position: relative;
+  width: 249px;
+  height: 137px;
+}
+.divelementorElement10 {
+  width: 389px;
+  height: 594px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-24xl) var(--padding-21xl);
+  box-sizing: border-box;
+  background-image: url(/divelementorelement5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 594px;
+}
+.divelementor,
+.divelementorElement6 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  justify-content: flex-start;
+}
+.divelementorElement6 {
+  margin: 0 !important;
+  top: 652.6px;
+  width: 1920px;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-0) 487.70001220703125px var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: var(--gap-88xl-5);
+  max-width: 1920px;
+  z-index: 1;
+}
+.divelementor {
+  width: 100%;
+  top: 15.3px;
+  right: 0;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.divtwbbSlidesWrapper {
+  position: absolute;
+  margin: 0 !important;
+  top: -4px;
+  left: calc(50% - 960px);
+  width: 1920px;
+  height: 1272.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.divelementorSwiper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.divelementorElement,
+.divelementorWidgetContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divelementorWidgetContainer {
+  align-self: stretch;
+}
+.divelementorElement {
+  position: absolute;
+  width: 100%;
+  top: 426px;
+  right: 0;
+  left: 0;
+  padding: 80.62999725341797px var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--upright-kitten-10web-site-1349x609-default-nero);
+  font-family: var(--font-gothic-a1);
+}

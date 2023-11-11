@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Italianno:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --upright-kitten-10web-site-1349x609-default-inter-regular-18: Inter;
+  --font-gothic-a1: "Gothic A1";
+  --font-italianno: Italianno;
+
+  /* font sizes */
+  --upright-kitten-10web-site-1349x609-default-inter-regular-18-size: 18px;
+  --font-size-22xl-8: 41.8px;
+  --font-size-33xl-7: 52.7px;
+  --font-size-mid-9: 17.9px;
+  --font-size-15xl-1: 34.1px;
+  --font-size-14xl-5: 33.5px;
+  --upright-kitten-10web-site-1349x609-default-inter-light-331-size: 33.1px;
+  --upright-kitten-10web-site-1349x609-default-inter-medium-133-size: 133px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-base-6: 15.6px;
+
+  /* Colors */
+  --upright-kitten-10web-site-1349x609-default-black: #000;
+  --upright-kitten-10web-site-1349x609-default-nero: #fff;
+  --upright-kitten-10web-site-1349x609-default-blue-ribbon: #0041f0;
+  --upright-kitten-10web-site-1349x609-default-red-ribbon: #e2062e;
+  --upright-kitten-10web-site-1349x609-default-pigment-indigo: #460073;
+  --color-gainsboro: #d9d9d9;
+
+  /* Gaps */
+  --gap-24xl-1: 43.1px;
+  --gap-xs: 12px;
+  --gap-88xl-5: 107.5px;
+
+  /* Paddings */
+  --padding-178xl-8: 197.8px;
+  --padding-86xl-6: 105.6px;
+  --padding-56xl-1: 75.1px;
+  --padding-2xl-8: 21.8px;
+  --padding-66xl-3: 85.3px;
+  --padding-483xl-1: 502.1px;
+  --padding-383xl-4: 402.4px;
+  --padding-282xl-6: 301.6px;
+  --padding-23xl: 42px;
+  --padding-46xl-7: 65.7px;
+  --padding-2xl: 21px;
+  --padding-28xl-7: 47.7px;
+  --padding-37xl-7: 56.7px;
+  --padding-62xl-7: 81.7px;
+  --padding-72xl-7: 91.7px;
+  --padding-8xs: 5px;
+  --padding-158xl-7: 177.7px;
+  --padding-145xl-7: 164.7px;
+  --padding-132xl-7: 151.7px;
+  --padding-149xl-7: 168.7px;
+  --padding-161xl-7: 180.7px;
+  --padding-416xl-1: 435.1px;
+  --padding-10xs-9: 2.9px;
+  --padding-11xl-7: 30.7px;
+  --padding-xl: 20px;
+  --padding-2xs: 11px;
+  --padding-920xl: 939px;
+  --padding-6xs: 7px;
+  --padding-7501xl: 7520px;
+  --padding-120xl: 139px;
+  --padding-1650xl: 1669px;
+  --padding-61xl-6: 80.6px;
+  --padding-704xl-8: 723.8px;
+  --padding-491xl-7: 510.7px;
+  --padding-276xl-7: 295.7px;
+  --padding-11xs-9: 1.9px;
+  --padding-13xl: 32px;
+  --padding-0: 0px;
+  --padding-13xl-7: 32.7px;
+  --padding-8xl-9: 27.9px;
+  --padding-301xl-6: 320.6px;
+  --padding-894xl-9: 913.9px;
+  --padding-20xl-7: 39.7px;
+  --padding-382xl-3: 401.3px;
+  --padding-1109xl-9: 1128.9px;
+  --padding-278xl-6: 297.6px;
+  --padding-88xl-7: 107.7px;
+  --padding-234xl-4: 253.4px;
+  --padding-232xl-5: 251.5px;
+  --padding-108xl-4: 127.4px;
+  --padding-12xs-4: 0.4px;
+  --padding-108xl-6: 127.6px;
+  --padding-516xl-7: 535.7px;
+  --padding-5xl: 24px;
+  --padding-12xs: 1px;
+  --padding-4671xl: 4690px;
+  --padding-188xl: 207px;
+  --padding-468xl-7: 487.7px;
+  --padding-24xl: 43px;
+  --padding-21xl: 40px;
+  --padding-27xl: 46px;
+  --padding-32xl: 51px;
+  --padding-35xl: 54px;
+  --padding-15xl: 34px;
+  --padding-13xl-6: 32.6px;
+  --padding-88xl-5: 107.5px;
+  --padding-smi-8: 12.8px;
+  --padding-213xl: 232px;
+  --padding-9xs-6: 3.6px;
+  --padding-xs-2: 11.2px;
+  --padding-2xl-9: 21.9px;
+  --padding-3xl-8: 22.8px;
+  --padding-10xs-3: 2.3px;
+  --padding-100xl-6: 119.6px;
+  --padding-72xl-2: 91.2px;
+  --padding-462xl-1: 481.1px;
+  --padding-4xs: 9px;
+  --padding-39xl-3: 58.3px;
+  --padding-40xl: 59px;
+  --padding-41xl-4: 60.4px;
+
+  /* Border radiuses */
+  --br-10xs: 3px;
+}
